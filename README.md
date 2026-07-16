@@ -121,15 +121,15 @@ Arduino-based autonomous robot using IR sensors.
 ## 🌐 Connect With Me
 
 <p align="left">
-<a href="mailto:shivamkumar100406@gmail.com">
+<a href="mailto:abhinavgiri461@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://www.linkedin.com/in/shivam-kumar-867967331/">
+<a href="https://www.linkedin.com/in/om-giri-452769390">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://leetcode.com/u/shivcode4lyf/">
+<a href="https://leetcode.com/u/OmGiri_01/">
 <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
 </a>
 </p>
