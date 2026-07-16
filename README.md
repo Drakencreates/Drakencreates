@@ -63,60 +63,9 @@ B.Tech Computer Science Student | Java Developer | DSA Enthusiast
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Shivam-rajput-09&theme=github-dark&hide_border=true"/>
+  <img src="https://streak-stats.demolab.com?user=Drakencreates&theme=github-dark&hide_border=true"/>
 </p>
 
-## 🚀 Featured Projects
-
-<table>
-<tr>
-<td width="50%">
-
-### 🛒 E-Commerce Website
-
-Responsive shopping website built using HTML, CSS and JavaScript.
-
-**Tech Stack:** HTML • CSS • JavaScript <br>
-
-</td>
-
-<td width="50%">
-
-### ⏱️ Pomodoro Timer
-
-A productivity timer with a clean and responsive interface.
-
-**Tech Stack:** HTML • CSS • JavaScript <br>
-
-</td>
-
-</tr>
-
-<tr>
-
-<td>
-
-### 🌦️ Weather App
-
-Real-time weather application using OpenWeather API.
-
-**Tech Stack:** HTML • CSS • JavaScript<br>
-
-</td>
-
-<td>
-
-### 🤖 Line Follower Robot
-
-Arduino-based autonomous robot using IR sensors.
-
-**Tech Stack:** Arduino • C++<br>
-
-</td>
-
-</tr>
-
-</table>
 
 ## 🌐 Connect With Me
 
